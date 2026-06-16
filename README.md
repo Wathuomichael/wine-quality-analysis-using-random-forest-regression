@@ -55,7 +55,7 @@ For white wine, alcohol has the highest positive correlation with quality (+0.44
 
 ### Red Wine
 
-![Correlation of features with red wine quality](corr_red.png)
+![Correlation of features with red wine quality](images/wine-red-correlation.png)
 *Figure 4: Correlation of each feature with red wine quality. Green bars = positive, red = negative.*
 
 Red wine shows a similar pattern, with alcohol the top positive predictor (+0.48). Volatile acidity has a strong negative relationship (–0.39). Sulphates show a meaningful positive correlation (+0.25).
