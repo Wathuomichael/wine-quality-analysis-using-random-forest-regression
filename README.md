@@ -1,7 +1,4 @@
 # Wine Quality Analysis Report
-*Red & White Wine – Random Forest Classification
-
----
 
 ## Summary
 
